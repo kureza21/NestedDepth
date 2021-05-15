@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621086985 source:e:\proj\nestingdepth\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
